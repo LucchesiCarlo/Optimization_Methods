@@ -28,10 +28,11 @@ After downloading the project from GitHub, the necessary dependancies to run it 
 * scikit-learn
 * numpy
 * jupyter
+* pandas
 
 To install evryting need fast I used **conda** with this command:
 ```
-conda create --name OPT numpy scikit-learn jupyter conda-forge::matplotlib
+conda create --name OPT numpy scikit-learn jupyter conda-forge::matplotlib pandas
 ```
 
 To run the notebook is sufficent to run:
