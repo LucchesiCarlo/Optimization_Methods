@@ -1,6 +1,6 @@
 # Optimization Methods Project Work: SMO and DCD-Linear for SVMs
 
-TODO (Brief introduction of what I'am doing)
+TODO (Brief introduction of what I'm doing)
 ## Goal of the Project
 
 TODO
